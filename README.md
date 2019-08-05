@@ -9,6 +9,7 @@ So you copy file to startup folder, run it once (just for this session), and for
 2. copy file you need there
 3. run file once for this session
 
+## Scripts
 - if you have rights to execute any .exe (no whitelists):
   - go to https://www.autohotkey.com/download/, download and install autohotkey (portable version also available)
   - download alive.ahk file, open it and bind autohotkey to these type of files (only for portable version)
