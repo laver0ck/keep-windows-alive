@@ -12,9 +12,8 @@ So you copy file to startup folder, run it once (just for this session), and for
 ## Scripts
 - if you have rights to execute any ```.exe``` file (no whitelists):
   - go to https://www.autohotkey.com/download/, download and install autohotkey (portable version also available)
-  - download ```alive.ahk``` file, open it and bind autohotkey to these type of files (only for portable version)
-  - copy ```alive.ahk``` to Startup folder (see above)
-  - run ```alive.ahk``` with AHK
+  - download ```alive.ahk``` file and copy it to Startup folder (see above)
+  - run ```alive.ahk``` with AHK once
 - if you don't have rights to execute any ```.exe``` (whitelists policy), you probably have rights to work with ```powershell```:
   - download ```alive.ps1```
   - try to run it with powershell (search google if you don't know how to)
